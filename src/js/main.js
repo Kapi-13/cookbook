@@ -9,9 +9,10 @@ const ingredients = document.querySelector(".items-ingredients ul");
 const making = document.querySelector(".items-activities ol");
 const rightWrapper = document.querySelector(".right-wrapper");
 
+let nextNumMeal;
 let typeFirstMeal = "Wczytywanie...";
 let typeMealArr = [];
-let numFirstMeal = 5;
+let numFirstMeal;
 let actTypeFood = typeFirstMeal;
 actTypeFoodDiv.innerText = actTypeFood;
 
@@ -19,7 +20,7 @@ const setMealTypeListener = (data) => {
     menuParagraphs.forEach((elem) => {
         elem.addEventListener("click", (e) => {
             actTypeFood = e.target.innerText;
-            setValues(data, e.target.innerText);
+            setValues(data, e.target.innerText, nextNumMeal);
             actTypeFoodDiv.innerText = actTypeFood;
         });
     });
@@ -64,12 +65,7 @@ const setValues = (data, typeMeal, numFirstMeal) => {
         return elem.typ === typeMeal;
     });
     setNameMealsInLeft(typeFilteredArr);
-    // const
-    if (numFirstMeal === undefined) {
-        setValues(data, typeMeal, numFirstMeal);
-    } else {
-        setFirstMealInMain(typeFilteredArr[numFirstMeal]);
-    }
+    setFirstMealInMain(typeFilteredArr[numFirstMeal]);
 };
 
 window.onload = function (typeFirstMeal) {
@@ -80,6 +76,7 @@ window.onload = function (typeFirstMeal) {
             let actTypeFood = typeFirstMeal;
             actTypeFoodDiv.innerText = actTypeFood;
             numFirstMeal = data.numFirstMeal;
+            nextNumMeal = data.nextNumMeal;
         });
     fetch("../config/Przepisy.json") //* Pobieranie z JSON danych
         .then((res) => res.json()) //* Zmiana JSON w tablice obiektów js
@@ -89,13 +86,13 @@ window.onload = function (typeFirstMeal) {
                     setValues(data, typeMealArr[0], numFirstMeal);
                     break;
                 case "Zupy":
-                    setValues(data, typeMealArr[1]);
+                    setValues(data, typeMealArr[1], numFirstMeal);
                     break;
                 case "Desery":
-                    setValues(data, typeMealArr[2]);
+                    setValues(data, typeMealArr[2], numFirstMeal);
                     break;
                 case "Przetwory":
-                    setValues(data, typeMealArr[3]);
+                    setValues(data, typeMealArr[3], numFirstMeal);
                     break;
                 default:
                     break;
