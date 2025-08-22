@@ -69,7 +69,7 @@ const setValues = (data, typeMeal, numFirstMeal) => {
 };
 
 window.onload = function (typeFirstMeal) {
-    fetch("../config/config.json")
+    fetch("./config/config.json")
         .then((res) => res.json())
         .then((data) => {
             typeFirstMeal = data.typeFirstMeal;
@@ -78,7 +78,7 @@ window.onload = function (typeFirstMeal) {
             numFirstMeal = data.numFirstMeal;
             nextNumMeal = data.nextNumMeal;
         });
-    fetch("../config/przepisy.json") //* Pobieranie z JSON danych
+    fetch("./config/przepisy.json") //* Pobieranie z JSON danych
         .then((res) => res.json()) //* Zmiana JSON w tablice obiektów js
         .then((data) => {
             switch (typeFirstMeal) {
