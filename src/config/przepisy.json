@@ -20,7 +20,7 @@
             "Nakładaj farsz, zlepiaj pierogi.",
             "Gotuj w osolonej wodzie 3-4 minuty po wypłynięciu, podawaj z roztopionym masłem."
         ],
-        "obraz": ["../img/Pierogi.jpg"]
+        "obraz": ["./img/Pierogi.jpg"]
     },
     {
         "nazwa": "Schabowy z ziemniakami",
@@ -41,7 +41,7 @@
             "Smaż na złoty kolor z obu stron na rozgrzanym oleju przez 6-8 minut.",
             "Ugotuj ziemniaki w osolonej wodzie przez 20 minut, odcedź i dodaj masło."
         ],
-        "obraz": ["../img/Schabowy.jpg"]
+        "obraz": ["./img/Schabowy.jpg"]
     },
     {
         "nazwa": "Gołąbki",
@@ -63,7 +63,7 @@
             "Ułóż w garnku, zalej przecierem pomidorowym z 200 ml wody, dodaj liść laurowy.",
             "Duś pod przykryciem 45 minut na małym ogniu."
         ],
-        "obraz": ["../img/Gołabki.jpg"]
+        "obraz": ["./img/Gołabki.jpg"]
     },
     {
         "nazwa": "Bigos",
@@ -85,7 +85,7 @@
             "Dodaj kapustę świeżą i kiszoną, śliwki, przyprawy.",
             "Duś pod przykryciem 2 godziny, mieszając od czasu do czasu."
         ],
-        "obraz": ["../img/bigos.jpg"]
+        "obraz": ["./img/bigos.jpg"]
     },
     {
         "nazwa": "Kotlet mielony",
@@ -104,7 +104,7 @@
             "Formuj kotlety o grubości 1,5 cm.",
             "Smaż na złoty kolor z obu stron przez 6-7 minut."
         ],
-        "obraz": ["../img/Kotlety mielone.jpg"]
+        "obraz": ["./img/Kotlety mielone.jpg"]
     },
     {
         "nazwa": "Placki ziemniaczane",
@@ -121,7 +121,7 @@
             "Wymieszaj z jajkiem, mąką i solą.",
             "Smaż na rozgrzanym oleju na złoty kolor z obu stron przez 3-4 minuty."
         ],
-        "obraz": ["../img/Placki ziemniaczane.jpg"]
+        "obraz": ["./img/Placki ziemniaczane.jpg"]
     },
     {
         "nazwa": "Karkówka pieczona",
@@ -137,7 +137,7 @@
             "Odstaw na 1 godzinę do lodówki.",
             "Piecz 90 minut w 180°C, co 20 minut polewając własnym sosem."
         ],
-        "obraz": ["../img/Karkówka pieczona.jpg"]
+        "obraz": ["./img/Karkówka pieczona.jpg"]
     },
     {
         "nazwa": "Żeberka w miodzie",
@@ -154,7 +154,7 @@
             "Natrzyj żeberka marynatą, odstaw 30 minut.",
             "Piecz 60 minut w 180°C, podlewając marynatą co 15 minut."
         ],
-        "obraz": ["../img/Żeberka w miodzie.jpeg"]
+        "obraz": ["./img/Żeberka w miodzie.jpeg"]
     },
     {
         "nazwa": "Gulasz wieprzowy",
@@ -171,7 +171,7 @@
             "Podsmaż mięso na oleju 5 minut, dodaj cebulę, smaż 3 minuty.",
             "Dodaj paprykę i przyprawy, duś pod przykryciem 45 minut na małym ogniu."
         ],
-        "obraz": ["../img/Gulasz wieprzowy.jpg"]
+        "obraz": ["./img/Gulasz wieprzowy.jpg"]
     },
     {
         "nazwa": "Kotlety z kurczaka",
@@ -188,7 +188,7 @@
             "Panieruj w jajku i bułce tartej.",
             "Smaż na złoty kolor z obu stron przez 5-6 minut."
         ],
-        "obraz": ["../img/Kotlety z kurczaka.jpg"]
+        "obraz": ["./img/Kotlety z kurczaka.jpg"]
     },
     {
         "nazwa": "Rosół z kury",
@@ -208,7 +208,7 @@
             "Dodaj obrane i pokrojone warzywa, przyprawy, gotuj kolejne 30 minut.",
             "Odcedź rosół, dopraw do smaku, podawaj z makaronem i posiekaną natką."
         ],
-        "obraz": ["../img/Rosół.jpg"]
+        "obraz": ["./img/Rosół.jpg"]
     },
     {
         "nazwa": "Barszcz czerwony",
@@ -228,7 +228,7 @@
             "Dodaj przyprawy, gotuj 45 minut do miękkości.",
             "Dopraw sokiem z cytryny, podawaj z uszkami lub krokietami."
         ],
-        "obraz": ["../img/Barszcz czerwony.jpg"]
+        "obraz": ["./img/Barszcz czerwony.jpg"]
     },
     {
         "nazwa": "Żurek na kiełbasie",
@@ -247,7 +247,7 @@
             "W garnku zagotuj 1 litr wody z warzywami i przyprawami 20 minut.",
             "Dodaj zakwas, gotuj 5 minut, dopraw śmietaną i pieprzem."
         ],
-        "obraz": ["../img/Żurek.jpg"]
+        "obraz": ["./img/Żurek.jpg"]
     },
     {
         "nazwa": "Krupnik",
@@ -267,7 +267,7 @@
             "Dodaj ziemniaki i kaszę, gotuj kolejne 20 minut.",
             "Dopraw solą, pieprzem, podawaj z natką pietruszki."
         ],
-        "obraz": ["../img/Krupnik.jpg"]
+        "obraz": ["./img/Krupnik.jpg"]
     },
     {
         "nazwa": "Pomidorowa z ryżem",
@@ -288,7 +288,7 @@
             "Dodaj ryż i passatę, gotuj 15 minut, dopraw solą, pieprzem, odrobiną cukru.",
             "Na końcu wlej śmietanę, podawaj gorącą."
         ],
-        "obraz": ["../img/Pomidorowa z ryżem.jpeg"]
+        "obraz": ["./img/Pomidorowa z ryżem.jpeg"]
     },
     {
         "nazwa": "Flaki po warszawsku",
@@ -308,7 +308,7 @@
             "Dodaj warzywa i przyprawy, gotuj kolejne 30 minut.",
             "Dopraw majerankiem, podawaj gorące."
         ],
-        "obraz": ["../img/Flaki po warszawsku.JPG"]
+        "obraz": ["./img/Flaki po warszawsku.JPG"]
     },
     {
         "nazwa": "Grochówka",
@@ -328,7 +328,7 @@
             "Dodaj pokrojoną kiełbasę, warzywa, ziemniaki, gotuj kolejne 30 minut.",
             "Dopraw solą, pieprzem."
         ],
-        "obraz": ["../img/Grochówka.jpg"]
+        "obraz": ["./img/Grochówka.jpg"]
     },
     {
         "nazwa": "Zupa ogórkowa",
@@ -349,7 +349,7 @@
             "Dodaj ogórki i gotuj kolejne 10 minut.",
             "Dopraw solą, pieprzem, posyp koperkiem."
         ],
-        "obraz": ["../img/Zupa ogórkowa.jpg"]
+        "obraz": ["./img/Zupa ogórkowa.jpg"]
     },
     {
         "nazwa": "Zupa grzybowa",
@@ -369,7 +369,7 @@
             "Dodaj pokrojone warzywa, gotuj 20 minut.",
             "Dodaj makaron, gotuj 8 minut, dopraw solą, pieprzem, dodaj śmietanę."
         ],
-        "obraz": ["../img/Zupa grzybowa.jpg"]
+        "obraz": ["./img/Zupa grzybowa.jpg"]
     },
     {
         "nazwa": "Zupa krem z dyni",
@@ -388,7 +388,7 @@
             "Dodaj bulion, gotuj 20 minut do miękkości.",
             "Zmiksuj na gładki krem, dopraw solą, pieprzem, gałką, dodaj śmietanę."
         ],
-        "obraz": ["../img/Zupa krem z dyni.jpg"]
+        "obraz": ["./img/Zupa krem z dyni.jpg"]
     },
     {
         "nazwa": "Sernik",
