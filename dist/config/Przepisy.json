@@ -1,0 +1,605 @@
+[
+    {
+        "nazwa": "Pierogi ruskie",
+        "typ": "Dania główne",
+        "skladniki": [
+            "mąka pszenna 500 g",
+            "gorąca woda 200 ml",
+            "sól szczypta",
+            "ziemniaki 500 g",
+            "biały ser 250 g",
+            "cebula 1 szt.",
+            "olej 2 łyżki",
+            "masło 50 g"
+        ],
+        "przepis": [
+            "Zagnieć ciasto z mąki, gorącej wody i soli. Odstaw na 30 minut pod przykryciem.",
+            "Ugotuj ziemniaki w osolonej wodzie, odcedź i zmiksuj z serem.",
+            "Podsmaż cebulę na oleju do zeszklenia i dodaj do farszu.",
+            "Rozwałkuj ciasto na grubość 2-3 mm, wycinaj kółka o średnicy 7 cm.",
+            "Nakładaj farsz, zlepiaj pierogi.",
+            "Gotuj w osolonej wodzie 3-4 minuty po wypłynięciu, podawaj z roztopionym masłem."
+        ],
+        "obraz": ["../img/Pierogi.jpg"]
+    },
+    {
+        "nazwa": "Schabowy z ziemniakami",
+        "typ": "Dania główne",
+        "skladniki": [
+            "schab wieprzowy 4 plastry po 150 g",
+            "jajko 1 szt.",
+            "bułka tarta 100 g",
+            "mąka 2 łyżki",
+            "olej do smażenia 4 łyżki",
+            "ziemniaki 800 g",
+            "masło 30 g",
+            "sól, pieprz"
+        ],
+        "przepis": [
+            "Rozbij plastry schabu na grubość ok. 1 cm, dopraw solą i pieprzem.",
+            "Panieruj w mące, jajku i bułce tartej.",
+            "Smaż na złoty kolor z obu stron na rozgrzanym oleju przez 6-8 minut.",
+            "Ugotuj ziemniaki w osolonej wodzie przez 20 minut, odcedź i dodaj masło."
+        ],
+        "obraz": ["../img/Schabowy.jpg"]
+    },
+    {
+        "nazwa": "Gołąbki",
+        "typ": "Dania główne",
+        "skladniki": [
+            "kapusta biała 1 główka",
+            "ryż biały 100 g",
+            "mięso mielone wieprzowo-wołowe 500 g",
+            "cebula 1 szt.",
+            "przecier pomidorowy 250 ml",
+            "olej 2 łyżki",
+            "sól, pieprz, liść laurowy"
+        ],
+        "przepis": [
+            "Odetnij liście kapusty, blanszuj je w gorącej wodzie 2-3 minuty.",
+            "Ugotuj ryż na półtwardo, odcedź.",
+            "Podsmaż cebulę na oleju, dodaj mięso, smaż 5 minut, wymieszaj z ryżem, dopraw solą i pieprzem.",
+            "Na liściach kapusty nakładaj farsz, zawiń w gołąbki.",
+            "Ułóż w garnku, zalej przecierem pomidorowym z 200 ml wody, dodaj liść laurowy.",
+            "Duś pod przykryciem 45 minut na małym ogniu."
+        ],
+        "obraz": ["../img/Gołabki.jpg"]
+    },
+    {
+        "nazwa": "Bigos",
+        "typ": "Dania główne",
+        "skladniki": [
+            "kapusta kiszona 500 g",
+            "kapusta świeża 500 g",
+            "mięso wieprzowe 300 g",
+            "kiełbasa 200 g",
+            "boczek wędzony 100 g",
+            "suszone śliwki 100 g",
+            "cebula 1 szt.",
+            "olej 2 łyżki",
+            "sól, pieprz, liść laurowy, ziele angielskie 3 ziarenka"
+        ],
+        "przepis": [
+            "Pokrój mięso, boczek i kiełbasę, podsmaż na oleju 5 minut.",
+            "Dodaj cebulę, smaż kolejne 3 minuty.",
+            "Dodaj kapustę świeżą i kiszoną, śliwki, przyprawy.",
+            "Duś pod przykryciem 2 godziny, mieszając od czasu do czasu."
+        ],
+        "obraz": ["../img/bigos.jpg"]
+    },
+    {
+        "nazwa": "Kotlet mielony",
+        "typ": "Dania główne",
+        "skladniki": [
+            "mięso mielone wołowo-wieprzowe 500 g",
+            "bułka pszenna 1 szt., namoczona w 100 ml mleka",
+            "cebula 1 szt.",
+            "jajko 1 szt.",
+            "sól, pieprz",
+            "olej 3 łyżki"
+        ],
+        "przepis": [
+            "Posiekaj cebulę i podsmaż na oleju.",
+            "Wymieszaj mięso z bułką, jajkiem, cebulą, solą i pieprzem.",
+            "Formuj kotlety o grubości 1,5 cm.",
+            "Smaż na złoty kolor z obu stron przez 6-7 minut."
+        ],
+        "obraz": ["../img/Kotlety mielone.jpg"]
+    },
+    {
+        "nazwa": "Placki ziemniaczane",
+        "typ": "Dania główne",
+        "skladniki": [
+            "ziemniaki 800 g",
+            "jajko 1 szt.",
+            "mąka pszenna 3 łyżki",
+            "sól",
+            "olej 4 łyżki"
+        ],
+        "przepis": [
+            "Zetrzyj ziemniaki na tarce o drobnych oczkach, odciśnij nadmiar soku.",
+            "Wymieszaj z jajkiem, mąką i solą.",
+            "Smaż na rozgrzanym oleju na złoty kolor z obu stron przez 3-4 minuty."
+        ],
+        "obraz": ["../img/Placki ziemniaczane.jpg"]
+    },
+    {
+        "nazwa": "Karkówka pieczona",
+        "typ": "Dania główne",
+        "skladniki": [
+            "karkówka 1 kg",
+            "czosnek 4 ząbki",
+            "sól, pieprz, papryka słodka 1 łyżeczka",
+            "olej 2 łyżki"
+        ],
+        "przepis": [
+            "Natrzyj karkówkę solą, pieprzem, papryką i przeciśniętym czosnkiem.",
+            "Odstaw na 1 godzinę do lodówki.",
+            "Piecz 90 minut w 180°C, co 20 minut polewając własnym sosem."
+        ],
+        "obraz": ["../img/Karkówka pieczona.jpg"]
+    },
+    {
+        "nazwa": "Żeberka w miodzie",
+        "typ": "Dania główne",
+        "skladniki": [
+            "żeberka 1 kg",
+            "miód 3 łyżki",
+            "musztarda 2 łyżki",
+            "sól, pieprz",
+            "oliwa 2 łyżki"
+        ],
+        "przepis": [
+            "Wymieszaj miód z musztardą, solą i pieprzem.",
+            "Natrzyj żeberka marynatą, odstaw 30 minut.",
+            "Piecz 60 minut w 180°C, podlewając marynatą co 15 minut."
+        ],
+        "obraz": ["../img/Żeberka w miodzie.jpeg"]
+    },
+    {
+        "nazwa": "Gulasz wieprzowy",
+        "typ": "Dania główne",
+        "skladniki": [
+            "mięso wieprzowe 500 g",
+            "cebula 1 szt.",
+            "papryka czerwona 1 szt.",
+            "olej 2 łyżki",
+            "sól, pieprz, papryka słodka 1 łyżeczka"
+        ],
+        "przepis": [
+            "Pokrój mięso w kostkę, cebulę i paprykę w piórka.",
+            "Podsmaż mięso na oleju 5 minut, dodaj cebulę, smaż 3 minuty.",
+            "Dodaj paprykę i przyprawy, duś pod przykryciem 45 minut na małym ogniu."
+        ],
+        "obraz": ["../img/Gulasz wieprzowy.jpg"]
+    },
+    {
+        "nazwa": "Kotlety z kurczaka",
+        "typ": "Dania główne",
+        "skladniki": [
+            "pierś z kurczaka 2 szt. (ok. 400 g)",
+            "jajko 1 szt.",
+            "bułka tarta 50 g",
+            "olej 3 łyżki",
+            "sól, pieprz"
+        ],
+        "przepis": [
+            "Rozbij pierś na grubość 1 cm, dopraw solą i pieprzem.",
+            "Panieruj w jajku i bułce tartej.",
+            "Smaż na złoty kolor z obu stron przez 5-6 minut."
+        ],
+        "obraz": ["../img/Kotlety z kurczaka.jpg"]
+    },
+    {
+        "nazwa": "Rosół z kury",
+        "typ": "Zupy",
+        "skladniki": [
+            "kurczak cały lub części 1 kg",
+            "marchew 2 szt.",
+            "pietruszka 1 szt.",
+            "seler 1/2 szt.",
+            "cebula 1 szt.",
+            "czosnek 2 ząbki",
+            "natka pietruszki 1 pęczek",
+            "sól, pieprz, liść laurowy 2 szt., ziele angielskie 4 ziarenka"
+        ],
+        "przepis": [
+            "Kurczaka włóż do garnka, zalej 2 litrami wody, gotuj na małym ogniu 1,5 godziny.",
+            "Dodaj obrane i pokrojone warzywa, przyprawy, gotuj kolejne 30 minut.",
+            "Odcedź rosół, dopraw do smaku, podawaj z makaronem i posiekaną natką."
+        ],
+        "obraz": ["../img/Rosół.jpg"]
+    },
+    {
+        "nazwa": "Barszcz czerwony",
+        "typ": "Zupy",
+        "skladniki": [
+            "buraki 500 g",
+            "marchew 1 szt.",
+            "pietruszka 1 szt.",
+            "seler 1/2 szt.",
+            "cebula 1 szt.",
+            "czosnek 1 ząbek",
+            "sok z cytryny 1 łyżka",
+            "sól, pieprz, liść laurowy 2 szt., ziele angielskie 3 ziarenka"
+        ],
+        "przepis": [
+            "Buraki i warzywa pokrój w kostkę, zalej 1,5 litra wody.",
+            "Dodaj przyprawy, gotuj 45 minut do miękkości.",
+            "Dopraw sokiem z cytryny, podawaj z uszkami lub krokietami."
+        ],
+        "obraz": ["../img/Barszcz czerwony.jpg"]
+    },
+    {
+        "nazwa": "Żurek na kiełbasie",
+        "typ": "Zupy",
+        "skladniki": [
+            "zakwas żytni 500 ml",
+            "kiełbasa biała 200 g",
+            "marchew 1 szt.",
+            "cebula 1 szt.",
+            "czosnek 1 ząbek",
+            "śmietana 18% 100 ml",
+            "sól, pieprz, liść laurowy 1 szt."
+        ],
+        "przepis": [
+            "Pokrój kiełbasę i podsmaż na patelni.",
+            "W garnku zagotuj 1 litr wody z warzywami i przyprawami 20 minut.",
+            "Dodaj zakwas, gotuj 5 minut, dopraw śmietaną i pieprzem."
+        ],
+        "obraz": ["../img/Żurek.jpg"]
+    },
+    {
+        "nazwa": "Krupnik",
+        "typ": "Zupy",
+        "skladniki": [
+            "kasza jęczmienna 100 g",
+            "marchew 2 szt.",
+            "pietruszka 1 szt.",
+            "seler 1/2 szt.",
+            "ziemniaki 3 szt.",
+            "cebula 1 szt.",
+            "mięso z kurczaka 300 g",
+            "sól, pieprz, liść laurowy 2 szt."
+        ],
+        "przepis": [
+            "Ugotuj mięso z warzywami w 1,5 litra wody 40 minut.",
+            "Dodaj ziemniaki i kaszę, gotuj kolejne 20 minut.",
+            "Dopraw solą, pieprzem, podawaj z natką pietruszki."
+        ],
+        "obraz": ["../img/Krupnik.jpg"]
+    },
+    {
+        "nazwa": "Pomidorowa z ryżem",
+        "typ": "Zupy",
+        "skladniki": [
+            "passata pomidorowa 500 ml",
+            "marchew 1 szt.",
+            "seler 1/4 szt.",
+            "cebula 1 szt.",
+            "ryż biały 80 g",
+            "bulion warzywny 1 litr",
+            "śmietana 18% 50 ml",
+            "sól, pieprz, cukier szczypta"
+        ],
+        "przepis": [
+            "Podsmaż cebulę, marchew i seler na 2 łyżkach oleju.",
+            "Dodaj bulion i gotuj 15 minut.",
+            "Dodaj ryż i passatę, gotuj 15 minut, dopraw solą, pieprzem, odrobiną cukru.",
+            "Na końcu wlej śmietanę, podawaj gorącą."
+        ],
+        "obraz": ["../img/Pomidorowa z ryżem.jpeg"]
+    },
+    {
+        "nazwa": "Flaki po warszawsku",
+        "typ": "Zupy",
+        "skladniki": [
+            "flaki wołowe 500 g",
+            "marchew 1 szt.",
+            "pietruszka 1 szt.",
+            "seler 1/2 szt.",
+            "cebula 1 szt.",
+            "czosnek 1 ząbek",
+            "liść laurowy 2 szt., ziele angielskie 3 ziarenka",
+            "sól, pieprz, majeranek 1 łyżeczka"
+        ],
+        "przepis": [
+            "Flaki przepłucz, gotuj w 1,5 litra wody 1,5 godziny.",
+            "Dodaj warzywa i przyprawy, gotuj kolejne 30 minut.",
+            "Dopraw majerankiem, podawaj gorące."
+        ],
+        "obraz": ["../img/Flaki po warszawsku.JPG"]
+    },
+    {
+        "nazwa": "Grochówka",
+        "typ": "Zupy",
+        "skladniki": [
+            "groch łuskany 200 g",
+            "kiełbasa wędzona 150 g",
+            "marchew 1 szt.",
+            "pietruszka 1 szt.",
+            "cebula 1 szt.",
+            "ziemniaki 2 szt.",
+            "sól, pieprz, liść laurowy 1 szt."
+        ],
+        "przepis": [
+            "Groch namocz na 2 godziny, odcedź.",
+            "Ugotuj groch z wodą 40 minut.",
+            "Dodaj pokrojoną kiełbasę, warzywa, ziemniaki, gotuj kolejne 30 minut.",
+            "Dopraw solą, pieprzem."
+        ],
+        "obraz": ["../img/Grochówka.jpg"]
+    },
+    {
+        "nazwa": "Zupa ogórkowa",
+        "typ": "Zupy",
+        "skladniki": [
+            "kiszone ogórki 300 g",
+            "marchew 1 szt.",
+            "pietruszka 1 szt.",
+            "seler 1/4 szt.",
+            "ziemniaki 3 szt.",
+            "cebula 1 szt.",
+            "bulion warzywny 1 litr",
+            "sól, pieprz, koperek świeży 2 łyżki"
+        ],
+        "przepis": [
+            "Pokrój ogórki i warzywa, podsmaż cebulę 2 minuty.",
+            "Dodaj bulion i ziemniaki, gotuj 20 minut.",
+            "Dodaj ogórki i gotuj kolejne 10 minut.",
+            "Dopraw solą, pieprzem, posyp koperkiem."
+        ],
+        "obraz": ["../img/Zupa ogórkowa.jpg"]
+    },
+    {
+        "nazwa": "Zupa grzybowa",
+        "typ": "Zupy",
+        "skladniki": [
+            "suszone grzyby 50 g",
+            "marchew 1 szt.",
+            "pietruszka 1 szt.",
+            "seler 1/4 szt.",
+            "cebula 1 szt.",
+            "makaron nitki 80 g",
+            "śmietana 18% 50 ml",
+            "sól, pieprz, liść laurowy 1 szt."
+        ],
+        "przepis": [
+            "Grzyby namocz 1 godzinę, ugotuj w 1 litrze wody 30 minut.",
+            "Dodaj pokrojone warzywa, gotuj 20 minut.",
+            "Dodaj makaron, gotuj 8 minut, dopraw solą, pieprzem, dodaj śmietanę."
+        ],
+        "obraz": ["../img/Zupa grzybowa.jpg"]
+    },
+    {
+        "nazwa": "Zupa krem z dyni",
+        "typ": "Zupy",
+        "skladniki": [
+            "dynia 800 g",
+            "marchew 1 szt.",
+            "cebula 1 szt.",
+            "czosnek 1 ząbek",
+            "bulion warzywny 1 litr",
+            "śmietana 18% 100 ml",
+            "sól, pieprz, gałka muszkatołowa szczypta"
+        ],
+        "przepis": [
+            "Pokrój dynię i warzywa, podsmaż cebulę i czosnek 3 minuty.",
+            "Dodaj bulion, gotuj 20 minut do miękkości.",
+            "Zmiksuj na gładki krem, dopraw solą, pieprzem, gałką, dodaj śmietanę."
+        ],
+        "obraz": ["../img/Zupa krem z dyni.jpg"]
+    },
+    {
+        "nazwa": "Sernik",
+        "typ": "Desery",
+        "skladniki": [
+            "twarożek półtłusty 500 g",
+            "cukier 150 g",
+            "jajka 4 szt.",
+            "masło 100 g",
+            "mąka pszenna 2 łyżki",
+            "cukier waniliowy 1 opakowanie"
+        ],
+        "przepis": [
+            "Utrzyj masło z cukrem i cukrem waniliowym.",
+            "Dodaj jajka, mieszaj do połączenia.",
+            "Dodaj twarożek i mąkę, wymieszaj dokładnie.",
+            "Przelej masę do formy i piecz 50 minut w 170°C."
+        ],
+        "obraz": [""]
+    },
+    {
+        "nazwa": "Szarlotka",
+        "typ": "Desery",
+        "skladniki": [
+            "jabłka 1 kg",
+            "cukier 100 g",
+            "cynamon 1 łyżeczka",
+            "mąka pszenna 250 g",
+            "masło 150 g",
+            "jajka 2 szt.",
+            "proszek do pieczenia 1 łyżeczka"
+        ],
+        "przepis": [
+            "Masło utrzyj z cukrem i jajkami.",
+            "Dodaj mąkę z proszkiem do pieczenia, zagnieć ciasto.",
+            "Jabłka obierz, pokrój, wymieszaj z cukrem i cynamonem.",
+            "Ciasto rozwałkuj, połowę wyłóż do formy, nałóż jabłka, przykryj resztą ciasta.",
+            "Piecz 45 minut w 180°C."
+        ],
+        "obraz": [""]
+    },
+    {
+        "nazwa": "Pączki",
+        "typ": "Desery",
+        "skladniki": [
+            "mąka pszenna 500 g",
+            "drożdże świeże 25 g",
+            "cukier 70 g",
+            "mleko 250 ml",
+            "masło 50 g",
+            "jajka 2 szt.",
+            "konfitura różana 100 g",
+            "olej do smażenia"
+        ],
+        "przepis": [
+            "Rozpuść drożdże w ciepłym mleku z łyżką cukru, odstaw na 10 minut.",
+            "Dodaj mąkę, jajka, cukier i masło, zagnieć ciasto.",
+            "Odstaw do wyrośnięcia na 1 godzinę.",
+            "Formuj pączki, nadziewaj konfiturą, smaż w głębokim oleju na złoty kolor."
+        ],
+        "obraz": [""]
+    },
+    {
+        "nazwa": "Makowiec",
+        "typ": "Desery",
+        "skladniki": [
+            "ciasto drożdżowe 500 g",
+            "masa makowa 400 g",
+            "cukier 50 g",
+            "jajko 1 szt.",
+            "masło 50 g"
+        ],
+        "przepis": [
+            "Ciasto rozwałkuj na prostokąt.",
+            "Rozsmaruj masę makową, zawiń w roladę.",
+            "Posmaruj jajkiem, piecz 40 minut w 180°C."
+        ],
+        "obraz": [""]
+    },
+    {
+        "nazwa": "Faworki",
+        "typ": "Desery",
+        "skladniki": [
+            "mąka pszenna 250 g",
+            "jajka 3 szt.",
+            "śmietana 50 ml",
+            "cukier 2 łyżki",
+            "masło 50 g",
+            "sól szczypta",
+            "olej do smażenia",
+            "cukier puder do posypania"
+        ],
+        "przepis": [
+            "Zagnieć ciasto z jajek, śmietany, mąki, masła, cukru i soli.",
+            "Rozwałkuj cienko, pokrój w paski, skręć w faworki.",
+            "Smaż w głębokim oleju na złoty kolor, posyp cukrem pudrem."
+        ],
+        "obraz": [""]
+    },
+    {
+        "nazwa": "Kremówka",
+        "typ": "Desery",
+        "skladniki": [
+            "ciasto francuskie 2 arkusze",
+            "mleko 500 ml",
+            "cukier 100 g",
+            "żółtka 4 szt.",
+            "mąka pszenna 3 łyżki",
+            "śmietana 36% 200 ml"
+        ],
+        "przepis": [
+            "Rozwałkuj ciasto francuskie, piecz w 200°C 15 minut.",
+            "Z mleka, cukru, żółtek i mąki ugotuj budyń, ostudź.",
+            "Ubij śmietanę i połącz z budyniem.",
+            "Przełóż krem między warstwy ciasta."
+        ],
+        "obraz": [""]
+    },
+    {
+        "nazwa": "Ptysie",
+        "typ": "Desery",
+        "skladniki": [
+            "woda 250 ml",
+            "masło 100 g",
+            "mąka pszenna 150 g",
+            "jajka 4 szt.",
+            "cukier puder do posypania",
+            "śmietana 36% 200 ml",
+            "cukier 50 g"
+        ],
+        "przepis": [
+            "Wodę z masłem zagotuj, dodaj mąkę, mieszaj do powstania ciasta.",
+            "Dodawaj jajka pojedynczo, mieszając dokładnie.",
+            "Formuj ptysie, piecz 25 minut w 200°C.",
+            "Ubij śmietanę z cukrem, nadziej ptysie, posyp cukrem pudrem."
+        ],
+        "obraz": [""]
+    },
+    {
+        "nazwa": "Racuchy z jabłkami",
+        "typ": "Desery",
+        "skladniki": [
+            "mąka pszenna 250 g",
+            "mleko 200 ml",
+            "drożdże świeże 20 g",
+            "cukier 2 łyżki",
+            "jajko 1 szt.",
+            "jabłka 2 szt.",
+            "olej do smażenia",
+            "cukier puder do posypania"
+        ],
+        "przepis": [
+            "Rozpuść drożdże w ciepłym mleku z cukrem, odstaw 10 minut.",
+            "Dodaj mąkę i jajko, wymieszaj na gładkie ciasto.",
+            "Pokrój jabłka w plastry, wymieszaj z ciastem.",
+            "Smaż na rozgrzanym oleju z obu stron na złoty kolor, posyp cukrem pudrem."
+        ],
+        "obraz": [""]
+    },
+    {
+        "nazwa": "Panna cotta",
+        "typ": "Desery",
+        "skladniki": [
+            "śmietana 500 ml",
+            "cukier 80 g",
+            "żelatyna 10 g",
+            "wanilia 1 laska",
+            "maliny do dekoracji 100 g"
+        ],
+        "przepis": [
+            "Żelatynę namocz w 50 ml wody.",
+            "Śmietanę zagotuj z cukrem i wanilią, dodaj żelatynę, wymieszaj.",
+            "Przelej do foremek, schłodź w lodówce 4 godziny.",
+            "Podawaj z malinami."
+        ],
+        "obraz": [""]
+    },
+    {
+        "nazwa": "Kisiel owocowy",
+        "typ": "Desery",
+        "skladniki": [
+            "sok owocowy 500 ml",
+            "cukier 3 łyżki",
+            "mąka ziemniaczana 2 łyżki",
+            "owoce do dekoracji 100 g"
+        ],
+        "przepis": [
+            "Odlej 100 ml soku, wymieszaj z mąką ziemniaczaną.",
+            "Resztę soku zagotuj z cukrem.",
+            "Wlej mieszankę z mąką, zagotuj, mieszając.",
+            "Przelej do miseczek, udekoruj owocami."
+        ]
+    },
+    {
+        "nazwa": "Syrop z owoców czarnego bzu",
+        "typ": "Przetwory",
+        "skladniki": [
+            "dojrzały owoc czrnego bzu 1kg",
+            "woda 1 l",
+            "cukier lub miód 700 g",
+            "sok z 2 cytryn",
+            "goździki 3 - 4",
+            "mały kawałek imbiru",
+            "cynamon laska"
+        ],
+        "przepis": [
+            "Przygotowanie owoców: Zebrane owoce dokładnie oddziel od szypułek – najlepiej robić to widelcem, przesuwając nim po baldachach. Owoce umyj delikatnie pod bieżącą wodą, ale nie mocz ich zbyt długo. Osusz owoce na czystej ściereczce lub ręczniku papierowym",
+            "Gotowanie owoców: Przełóż oczyszczone owoce do dużego garnka, zalej wodą i zagotuj. Gotuj na małym ogniu przez 20-30 minut, aż owoce popękają i puszczą sok. Po ugotowaniu przetrzyj owoce przez gęste sito lub gazę – powinien pozostać tylko czysty, ciemny sok.",
+            "Dodanie słodzika i przypraw: Do odcedzonego soku dodaj cukier lub miód, sok z cytryny oraz przyprawy. Podgrzewaj na małym ogniu, mieszając, aż cukier całkowicie się rozpuści. Nie doprowadzaj do wrzenia! Jeśli używasz miodu, dodaj go dopiero po ostudzeniu, aby zachować jego właściwości.",
+            "Pasteryzacja i przechowywanie: Gorący syrop przelej do wyparzonych butelek lub słoików. Jeśli planujesz przechowywać syrop dłużej, możesz go pasteryzować: ustaw butelki w garnku z wodą i podgrzewaj przez 10 minut w temperaturze około 80°C. Przechowuj w chłodnym, ciemnym miejscu – najlepiej w spiżarni lub lodówce po otwarciu."
+        ],
+        "obraz": [""]
+    }
+]
