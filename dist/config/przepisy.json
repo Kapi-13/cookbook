@@ -407,7 +407,7 @@
             "Dodaj twarożek i mąkę, wymieszaj dokładnie.",
             "Przelej masę do formy i piecz 50 minut w 170°C."
         ],
-        "obraz": [""]
+        "obraz": ["../img/sernik.jpg"]
     },
     {
         "nazwa": "Szarlotka",
@@ -428,7 +428,7 @@
             "Ciasto rozwałkuj, połowę wyłóż do formy, nałóż jabłka, przykryj resztą ciasta.",
             "Piecz 45 minut w 180°C."
         ],
-        "obraz": [""]
+        "obraz": ["../img/szarlotka.jpg"]
     },
     {
         "nazwa": "Pączki",
@@ -449,7 +449,7 @@
             "Odstaw do wyrośnięcia na 1 godzinę.",
             "Formuj pączki, nadziewaj konfiturą, smaż w głębokim oleju na złoty kolor."
         ],
-        "obraz": [""]
+        "obraz": ["../img/pączki.jpg"]
     },
     {
         "nazwa": "Makowiec",
@@ -466,7 +466,7 @@
             "Rozsmaruj masę makową, zawiń w roladę.",
             "Posmaruj jajkiem, piecz 40 minut w 180°C."
         ],
-        "obraz": [""]
+        "obraz": ["../img/makowiec.jpg"]
     },
     {
         "nazwa": "Faworki",
@@ -486,7 +486,7 @@
             "Rozwałkuj cienko, pokrój w paski, skręć w faworki.",
             "Smaż w głębokim oleju na złoty kolor, posyp cukrem pudrem."
         ],
-        "obraz": [""]
+        "obraz": ["../img/faworki.jpg"]
     },
     {
         "nazwa": "Kremówka",
@@ -505,7 +505,7 @@
             "Ubij śmietanę i połącz z budyniem.",
             "Przełóż krem między warstwy ciasta."
         ],
-        "obraz": [""]
+        "obraz": ["../img/kremówka.jpg"]
     },
     {
         "nazwa": "Ptysie",
@@ -525,7 +525,7 @@
             "Formuj ptysie, piecz 25 minut w 200°C.",
             "Ubij śmietanę z cukrem, nadziej ptysie, posyp cukrem pudrem."
         ],
-        "obraz": [""]
+        "obraz": ["../img/ptysie.jpg"]
     },
     {
         "nazwa": "Racuchy z jabłkami",
@@ -546,7 +546,7 @@
             "Pokrój jabłka w plastry, wymieszaj z ciastem.",
             "Smaż na rozgrzanym oleju z obu stron na złoty kolor, posyp cukrem pudrem."
         ],
-        "obraz": [""]
+        "obraz": ["../img/racuchy z jabłkami.jpg"]
     },
     {
         "nazwa": "Panna cotta",
@@ -564,7 +564,7 @@
             "Przelej do foremek, schłodź w lodówce 4 godziny.",
             "Podawaj z malinami."
         ],
-        "obraz": [""]
+        "obraz": ["../img/panna cotta.jpg"]
     },
     {
         "nazwa": "Kisiel owocowy",
@@ -580,7 +580,8 @@
             "Resztę soku zagotuj z cukrem.",
             "Wlej mieszankę z mąką, zagotuj, mieszając.",
             "Przelej do miseczek, udekoruj owocami."
-        ]
+        ],
+        "obraz": ["../img/kisiel owocowy.jpg"]
     },
     {
         "nazwa": "Syrop z owoców czarnego bzu",
@@ -600,6 +601,6 @@
             "Dodanie słodzika i przypraw: Do odcedzonego soku dodaj cukier lub miód, sok z cytryny oraz przyprawy. Podgrzewaj na małym ogniu, mieszając, aż cukier całkowicie się rozpuści. Nie doprowadzaj do wrzenia! Jeśli używasz miodu, dodaj go dopiero po ostudzeniu, aby zachować jego właściwości.",
             "Pasteryzacja i przechowywanie: Gorący syrop przelej do wyparzonych butelek lub słoików. Jeśli planujesz przechowywać syrop dłużej, możesz go pasteryzować: ustaw butelki w garnku z wodą i podgrzewaj przez 10 minut w temperaturze około 80°C. Przechowuj w chłodnym, ciemnym miejscu – najlepiej w spiżarni lub lodówce po otwarciu."
         ],
-        "obraz": [""]
+        "obraz": ["../img/syrop z owoców z czarnego bzu.jpeg"]
     }
 ]
